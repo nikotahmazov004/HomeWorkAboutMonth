@@ -1,0 +1,14 @@
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\obj\Debug\netcoreapp3.1\Taaskkkssss.csproj.AssemblyReference.cache
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\obj\Debug\netcoreapp3.1\Taaskkkssss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\obj\Debug\netcoreapp3.1\Taaskkkssss.AssemblyInfoInputs.cache
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\obj\Debug\netcoreapp3.1\Taaskkkssss.AssemblyInfo.cs
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\obj\Debug\netcoreapp3.1\Taaskkkssss.csproj.CoreCompileInputs.cache
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\bin\Debug\netcoreapp3.1\Taaskkkssss.exe
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\bin\Debug\netcoreapp3.1\Taaskkkssss.deps.json
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\bin\Debug\netcoreapp3.1\Taaskkkssss.runtimeconfig.json
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\bin\Debug\netcoreapp3.1\Taaskkkssss.runtimeconfig.dev.json
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\bin\Debug\netcoreapp3.1\Taaskkkssss.dll
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\bin\Debug\netcoreapp3.1\Taaskkkssss.pdb
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\obj\Debug\netcoreapp3.1\Taaskkkssss.dll
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\obj\Debug\netcoreapp3.1\Taaskkkssss.pdb
+C:\Users\tahma\source\repos\Taaskkkssss\Taaskkkssss\obj\Debug\netcoreapp3.1\Taaskkkssss.genruntimeconfig.cache
